@@ -1,7 +1,7 @@
 ### Hey, curious 👋🧔
 #### Welcome here!
 
-I'm André working in IT world since 2013 (or earlier maybe) but professionally since 2016 🌎💻 through this time I worked in a diverse bunch of things with different people.
+I'm André working, dying since 1996 👩‍🍼 and diving in IT world since 2013 (or earlier maybe) but professionally since 2016 🧑‍💼 through this time I've worked in a diverse bunch of things with different people 🌎💻
 
 This place is a small box I'm sharing part of the things I have been creating throughout the time 🛠️
 
