@@ -1,4 +1,4 @@
-### Hi, curious 👋
+### Hey, curious 👋
 
 It doesn't matter what brought you here but know you can reach me out through bellow links 👇:
 
