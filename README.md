@@ -5,6 +5,8 @@ I'm André working, dying since 1996 👩‍🍼 and diving in IT world since 20
 
 This place is a small box I'm sharing part of the things I have been creating throughout the time 🛠️
 
+[![My Skills](https://skillicons.dev/icons?i=angular,react,vue,jquery,sass,css,html,jest,ts,jenkins,php,vscode,visualstudio,java,maven,hibernate,spring,js,nodejs,express,gulp,md,mysql,postman,powershell,eclipse,idea,electron,git,linux,solidity&perline=12)](https://skillicons.dev)
+
 It doesn't matter what brought you here but know you can always reach me out using bellow channels 👇:
 
 <div>
