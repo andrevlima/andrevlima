@@ -1,6 +1,11 @@
-### Hey, curious 👋
+### Hey, curious 👋🧔
+#### Welcome here!
 
-It doesn't matter what brought you here but know you can reach me out through bellow links 👇:
+I'm André working in IT world since 2013 (or earlier maybe) but professionally since 2016 🌎💻 through this time I worked in a diverse bunch of things with different people.
+
+This place is a small box I'm sharing part of the things I have been creating throughout the time 🛠️
+
+It doesn't matter what brought you here but know you can always reach me out using bellow channels 👇:
 
 <div>
 <a href="https://www.youtube.com/@TecnoClique" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
