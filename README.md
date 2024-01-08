@@ -1,9 +1,9 @@
 ### Hey, curious 👋🧔
 #### Welcome here!
 
-I'm André, dying since 1996 👩‍🍼 and diving into IT world since 2013 (or earlier maybe) but professionally since 2016 🧑‍💼 through this time I've worked in a diverse bunch of things with different people 🌎💻
+I'm André, dying since 1996 👩‍🍼 and diving into IT world since 2013 (or earlier maybe) but professionally since 2016 🧑‍💼 during this time I've been worked in a diverse bunch of things with different people 🌎💻
 
-This place is a small box I'm sharing part of the things I have been creating throughout the time 🛠️
+This place is a small box where I'm sharing part of the things I have been creating throughout in my free time 🛠️
 
 [![My Skills](https://skillicons.dev/icons?i=angular,react,vue,jquery,sass,css,html,jest,ts,jenkins,php,vscode,visualstudio,java,maven,hibernate,spring,js,nodejs,express,gulp,md,mysql,postman,powershell,eclipse,idea,electron,git,linux,solidity&perline=12)](https://skillicons.dev)
 
